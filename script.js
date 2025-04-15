@@ -11,8 +11,8 @@ const prizes = [
   { text: "   198", weight: 0  },
   { text: "   398", weight: 0 },
   { text: "  598", weight: 50  },
-  { text: " 798", weight: 40  },
-  { text: " 1066", weight:10 },
+  { text: " 798", weight: 45  },
+  { text: " 1066", weight:5 },
   { text: " 3666", weight: 0  },
   { text: " 18666", weight: 0  },
 ];
