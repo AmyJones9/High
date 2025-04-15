@@ -9,10 +9,10 @@ let isSpinning = false;
 const prizes = [
   { text: "   98", weight: 0  },
   { text: "   198", weight: 0  },
-  { text: "   398", weight: 0 },
-  { text: "  598", weight: 50  },
-  { text: " 798", weight: 40  },
-  { text: " 1066", weight:10 },
+  { text: "   398", weight: 70 },
+  { text: "  598", weight: 30  },
+  { text: " 798", weight: 10  },
+  { text: " 1066", weight:0 },
   { text: " 3666", weight: 0  },
   { text: " 18666", weight: 0  },
 ];
