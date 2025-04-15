@@ -7,10 +7,10 @@ let chances = 0; // 初始次数为 0
 let isSpinning = false;
 
 const prizes = [
-  { text: "   98", weight: 100  },
+  { text: "   98", weight: 0  },
   { text: "   198", weight: 0  },
   { text: "   398", weight: 0 },
-  { text: "  598", weight: 0  },
+  { text: "  598", weight: 100  },
   { text: " 798", weight: 0  },
   { text: " 1066", weight:0 },
   { text: " 3666", weight: 0  },
