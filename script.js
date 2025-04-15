@@ -3,7 +3,7 @@ const ctx = canvas.getContext("2d");
 const spinButton = document.getElementById("spin");
 const chancesDiv = document.getElementById("chances");
 
-let chances = 5; // 初始次数为 0
+let chances = 0; // 初始次数为 0
 let isSpinning = false;
 
 const prizes = [
